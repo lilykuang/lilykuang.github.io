@@ -6,16 +6,16 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Lily Kuang 
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "I am studying computer science at University of California, Berkeley."
+  email:          jialikuang@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
-  facebook:
-  github:
+  facebook: lilykuang
+  github:   lilykuang
   stackoverflow:
-  linkedin:
+  linkedin: lilykuang
   instagram:
   lastfm:
   tumblr:
@@ -41,8 +41,6 @@ links:
     url: /posts/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
