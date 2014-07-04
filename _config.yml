@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website.
+title:            Lily Kuang
+description:      Welcome to my personal website!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 disqus_shortname:
@@ -8,7 +8,7 @@ disqus_shortname:
 owner:
   name:           Lily Kuang 
   avatar:         bio-photo.jpg
-  bio:            "I am studying computer science at University of California, Berkeley."
+  bio:            "I am an incoming 4th computer science at University of California, Berkeley."
   email:          jialikuang@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
@@ -35,16 +35,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-    external: true
-
+  - title: Home
+  - title: Projects
+    url: /projects/
+    
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/San_Francisco
 future:      true
 pygments:    true
 #highlighter: pygments
