@@ -1,9 +1,7 @@
 title:            Lily Kuang
 description:      Welcome to my personal website!
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://lilykuang.github.io
+# Your site's domain goes here. Leave localhost server or blank when working locally.              
 disqus_shortname:
-baseurl: 
 
 # Owner/author information
 owner:
@@ -39,9 +37,7 @@ links:
   - title: Home
   - title: Projects
     url: /projects/
-  - title: Posts
-    url: /posts/
-    
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/San_Francisco
 future:      true
