@@ -1,8 +1,7 @@
 title:            Lily Kuang
 description:      Welcome to my personal website!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://lilykuang.github.io
-url: localhost:4000
+url:              http://lilykuang.github.io
 disqus_shortname:
 baseurl: 
 
@@ -71,5 +70,5 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-#safe: true
-#baseurl: 
+safe: true
+baseurl: 
