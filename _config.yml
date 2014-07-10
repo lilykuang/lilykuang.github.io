@@ -35,8 +35,8 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-  - title: Projects
-    url: /projects/
+  - title: Posts
+    url: /posts/ 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/San_Francisco
